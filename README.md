@@ -1,5 +1,7 @@
 ### Test-cases ###
 
+Below are a few examples of test cases that I wrote during the QA course.
+
 **Descriptions**
 
 Attempt to log in with correct username and password.
